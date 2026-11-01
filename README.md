@@ -17,7 +17,7 @@ Create nodes, connect relationships, edit notes, and export projects as JSON or 
 npm run build
 ```
 
-The app deploys automatically to GitHub Pages from `main`:
+The app is configured to deploy to GitHub Pages from `main` once Pages is enabled for the repository:
 
 https://bjsmithxyz.github.io/Lore/
 
