@@ -17,4 +17,8 @@ Create nodes, connect relationships, edit notes, and export projects as JSON or 
 npm run build
 ```
 
+The app deploys automatically to GitHub Pages from `main`:
+
+https://bjsmithxyz.github.io/Lore/
+
 Built with React, TypeScript, Vite, and React Flow.
